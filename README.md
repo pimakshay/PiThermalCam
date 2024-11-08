@@ -55,3 +55,7 @@ Run pithermalcam/web_server.py to set up a flask server and stream live video ov
 Run pithermalcam/pi_therm_cam.py to display the video feed onscreen.
 
 Check sequential_versions folder for sequential running approaches that are easier to track/follow (i.e. sequential running rather than object-oriented classes). These are less robust, but can be easier to understand/track/edit, particularly for those coming from a scientific background. Again, refer to the link at top for a detailed discussion.
+
+#### Citations
+Refer to this repo as well:
+https://gitlab.com/kenken64/pi-thermal-camera
